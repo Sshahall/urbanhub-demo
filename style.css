@@ -1,0 +1,25 @@
+.main{
+    background-image: url('images/gradient.png');
+    background-size: cover;
+}
+.box-main{
+    
+    
+    height: 500px;
+    border-radius: 33px;
+    margin-top: 20px;
+    
+}
+.second-screen{
+    background: linear-gradient(#ffffff, #62cacc5b);
+}
+.footer-text{
+    color: white;
+    font-weight: 500;
+    margin-top: 80px;
+    margin-left: 450px;
+}
+.footer-text.span{
+    color: white;
+    font-weight: 100;
+}
